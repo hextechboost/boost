@@ -1,1 +1,2 @@
-# boost
+# Hextech Boost
+Official distribution repo
